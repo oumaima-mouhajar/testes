@@ -20,8 +20,8 @@ actuellement étudiante de l’ecole marocaine des sciences de l’ingénieur EM
   **Javascript**
   **C'est quoi Cors**
  est un mécanisme qui consiste à ajouter des en-têtes HTTP afin de permettre à un agent utilisateur d'accéder     à des ressources d'un serveur situé sur une autre origine que le site courant.
- **C'est quoi la différence entre  == et  ===**
- **==** c'est un test d'égalité est utilisé pour la comparaison entre deux variables quel que soit le type de la variable. par contre  **===**  est utilisé pour une comparaison stricte entre deux variables c’est à dire que cela vérifiera le type et la valeur des deux variables
+ **C'est quoi la différence entre  == et  === 
+  - **==** c'est un test d'égalité est utilisé pour la comparaison entre deux variables quel que soit le type de la variable. par contre  **===**  est utilisé pour une comparaison stricte entre deux variables c’est à dire que cela vérifiera le type et la valeur des deux variables
  **Qu'est ce que return  if("0" == "true")**
  -false 
  **Qu'est ce que  this?**
@@ -99,4 +99,7 @@ En utilisant les media queries on peut cibler un certain ecran/moniteur selon sa
    truncate supprime toujours toutes les lignes d'une table, laissant la table vide et la structure de la table intacte alors que       delete  peut supprimer conditionnellement si la clause where est utilisée.
    ** 6-imprimer la liste des employés qui ont un salaire plus que la somme de deux salaires minimum**
    SELECT id ,MIN(salaire) as sal FROM employee  where salaire > sum(sal +sal )
-    
+    Partie III
+
+    Pratique
+    cette partie n'est pas bien expliquer.
