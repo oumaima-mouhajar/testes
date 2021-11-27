@@ -102,4 +102,5 @@ En utilisant les media queries on peut cibler un certain ecran/moniteur selon sa
     Partie III
 
     Pratique
-    cette partie n'est pas bien expliquer.
+  cette partie n'est pas bien explique 
+
